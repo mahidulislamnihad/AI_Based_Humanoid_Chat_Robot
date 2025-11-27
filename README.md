@@ -51,7 +51,7 @@ The robot is divided into four core modules:
 
 ## 🖼️ Prototype Images
 
-|  |  |
+
 |------------------|-----------|
 | <img src="image/Robot_Head.jpg" width="300"> |  <img src="image/Robot_Head_1.jpg" width="300"> |
 
