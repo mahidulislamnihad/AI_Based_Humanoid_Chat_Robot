@@ -55,7 +55,7 @@ The robot is divided into four core modules:
 
 ---
 
-## 🔧 Hardware Used
+##  Hardware Used
 - **Arduino** (actuation controller)  
 - **PCA9685 Servo Driver**  
 - **Multiple MG995 / SG90 Servo motors**  
